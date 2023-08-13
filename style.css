@@ -1,0 +1,48 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.navbar {
+    border: 2px solid;
+    
+}
+.cardsec {
+   
+    
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 20px;
+}
+.card:hover{
+    animation: buttonshake 200ms 2;
+}
+
+h5:hover{
+    color: blue;
+    animation: buttonshake 200ms 2;
+}
+
+@keyframes buttonshake {
+
+    0% 100% {
+        translate: 0
+    }
+
+    10% {
+        translate: 0.200rem;
+    }
+
+    100% {
+        translate: -0.200rem;
+    }
+
+}
+
+.carousel-inner {
+    height: 500px;
+    width: 100%;
+    margin: 20px auto;
+
+}
+

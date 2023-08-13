@@ -1,0 +1,156 @@
+html {
+    background-color: black;
+}
+table {
+    color: aliceblue;
+    font-size: 14px;
+    caption-side: bottom;
+    box-sizing: margin-box;
+    box-shadow: auto;
+}
+h1 {
+    font-size: 50px;
+    color: cornsilk
+}
+li {
+    font-variant-position: initial;
+    text-align: justify;
+    font-size: 13px;
+    width: 15px;
+    height: 12px ;
+}
+td{
+    text-align: center;
+    font-size: larger;
+    height: 60px;
+    width: 50px;
+    
+}
+h3 {
+    color: khaki;
+}
+#grp01  {
+            
+    background-color: rgb(6, 163, 66);
+}
+#grp02  {
+    background-color: rgb(146, 107, 7);
+}
+#grp03  {
+    background-color: rgb(99, 71, 3);
+
+}
+#grp04  {
+    background-color: palevioletred;
+}
+#grp05  {
+    background-color: rgb(167, 50, 108);
+}
+#grp06  {
+    background-color: red;
+}
+#grp07  {
+    background-color: rgb(15, 164, 223);
+}
+#grp08  {background-color: rgb(76, 194, 155);
+
+}
+#grp09{
+    background-color: rgb(162, 228, 62);
+}
+#grp10 {
+    background-color: rgb(168, 96, 235);
+}
+#grp11{
+    background-color: grey;
+}
+#c01 {
+                    color:  rgb(146, 107, 7)
+                    /*Bullet Color*/
+}                
+#c01 span {
+                    color: aliceblue;
+                    /* Text Color */
+}
+#c02 {
+                    color:  rgb(99, 71, 3);
+                    /*Bullet Color*/
+}
+#c02 span {
+                    color: aliceblue;
+                    /* Text Color */
+}
+#c03 {
+                     color:  palevioletred;
+                    /*Bullet Color*/
+}
+#c03 span {
+                    color: aliceblue;
+                    /* Text Color */
+}
+#c04 {
+                    color:  rgb(167, 50, 108);
+                    /*Bullet Color*/
+}#c04 span {
+                    color: aliceblue;
+                    /* Text Color */
+                    
+}
+#c05 {
+                     color: red;
+                    /*Bullet Color*/
+}
+#c05 span {
+                    color: aliceblue;
+                    /* Text Color*/
+}
+#c06 {
+                     color: rgb(15, 164, 223);
+                    /*Bullet Color*/
+}
+#c06 span {
+                    color: aliceblue;
+                    /* Text Color*/
+}
+#c07 {
+                     color: rgb(76, 194, 155);
+                    /*Bullet Color*/
+}
+#c07 span {
+                    color: aliceblue;
+                    /* Text Color*/
+}
+#c08 {
+                     color: rgb(6, 163, 66);
+                    /*Bullet Color*/
+}
+#c08 span {
+                    color: aliceblue;
+                    /* Text Color*/
+}
+#c09 {
+                     color: rgb(162, 228, 62);
+                    /*Bullet Color*/
+}
+#c09 span {
+                    color: aliceblue;
+                    /* Text Color*/
+}
+#c10 {
+                     color: rgb(168, 96, 235);
+                    /*Bullet Color*/
+}
+#c10 span {
+                    color: aliceblue;
+                    /* Text Color*/
+}
+#c11 {
+                     color: grey;
+                    /*Bullet Color*/
+}
+#c11 span {
+                    color: aliceblue;
+                    /* Text Color*/
+}
+
+
